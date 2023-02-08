@@ -1,7 +1,7 @@
-# Name of the Project       	:  AS SUNNAH VENTURE 
+# Name of the Project       	:  Mobile Exchange
 Type of Project 		:  E-commerce
 
-Server Site Link		:  https://github.com/sohan284/As_Sunnah_Store-Server
+Server Site Link		:  
 
 ## Features		:
 
