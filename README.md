@@ -1,7 +1,8 @@
-# Name of the Project       	:  Mobile Exchange
+# Name of the Project       	:  Mobile-Exchange
 Type of Project 		:  E-commerce
 
-Server Site Link		:  
+## Live Site		: https://mobile-exchange-9e21b.web.app/
+### Admin Email : srsohan285@gmail.com || Password : 11111111
 
 ## Features		:
 
